@@ -1,1 +1,2 @@
-# slot_analiz-_program-
+# Slot Analiz Paneli
+Kurulum başarılı.
